@@ -1,0 +1,12 @@
+﻿  funkcjePoboczne.cpp
+  Memory.cpp
+  Plansza.cpp
+C:\Users\adams\OneDrive\Pulpit\Projekty\Memory\src\Memory\Plansza.cpp(142,48): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\adams\OneDrive\Pulpit\Projekty\Memory\src\Memory\Plansza.cpp(143,26): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\adams\OneDrive\Pulpit\Projekty\Memory\src\Memory\Plansza.cpp(162,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  629 of 643 functions (97.8%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Memory.vcxproj -> C:\Users\adams\OneDrive\Pulpit\Projekty\Memory\src\Memory\x64\Release\Memory.exe

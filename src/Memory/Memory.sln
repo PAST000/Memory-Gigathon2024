@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Memory", "Memory.vcxproj", "{2E16343B-B817-4AD3-8177-53FDDEFB6E02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A7792ED-C806-4208-AA4E-84050C19E8FC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Memory\main.cpp = ..\..\Memory\main.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E16343B-B817-4AD3-8177-53FDDEFB6E02}.Debug|x64.ActiveCfg = Debug|x64
+		{2E16343B-B817-4AD3-8177-53FDDEFB6E02}.Debug|x64.Build.0 = Debug|x64
+		{2E16343B-B817-4AD3-8177-53FDDEFB6E02}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E16343B-B817-4AD3-8177-53FDDEFB6E02}.Debug|x86.Build.0 = Debug|Win32
+		{2E16343B-B817-4AD3-8177-53FDDEFB6E02}.Release|x64.ActiveCfg = Release|x64
+		{2E16343B-B817-4AD3-8177-53FDDEFB6E02}.Release|x64.Build.0 = Release|x64
+		{2E16343B-B817-4AD3-8177-53FDDEFB6E02}.Release|x86.ActiveCfg = Release|Win32
+		{2E16343B-B817-4AD3-8177-53FDDEFB6E02}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8DF3E90-26CD-4177-B013-CBE15F377277}
+	EndGlobalSection
+EndGlobal
